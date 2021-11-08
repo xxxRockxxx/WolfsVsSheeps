@@ -1,0 +1,16 @@
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.csproj.AssemblyReference.cache
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.AssemblyInfoInputs.cache
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.AssemblyInfo.cs
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.csproj.CoreCompileInputs.cache
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\bin\Debug\net5.0\WolfsVsSheeps.exe
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\bin\Debug\net5.0\WolfsVsSheeps.deps.json
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\bin\Debug\net5.0\WolfsVsSheeps.runtimeconfig.json
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\bin\Debug\net5.0\WolfsVsSheeps.runtimeconfig.dev.json
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\bin\Debug\net5.0\WolfsVsSheeps.dll
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\bin\Debug\net5.0\ref\WolfsVsSheeps.dll
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\bin\Debug\net5.0\WolfsVsSheeps.pdb
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.dll
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\ref\WolfsVsSheeps.dll
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.pdb
+C:\Програмирование\Saves programs\C#\WolfsVsSheeps\obj\Debug\net5.0\WolfsVsSheeps.genruntimeconfig.cache
